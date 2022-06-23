@@ -18,7 +18,7 @@ interface MenuItem {
 export class MenuComponent {
 
   menu: MenuItem[] = [
-    {ruta: '/graficas/barra', texto: 'Barras'}
+    {ruta: '/graficas/barra', texto: 'Registros'}
   ];
 
 }
